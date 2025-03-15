@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ayohsan
+- 👋 Hi, I’m @ayohsan, I'm 42 student
 - 👀 I’m interested in money
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently learning cloud, and C
 - 💞️ I’m looking to collaborate on IA project
 - 📫 How to reach me ayohsan@live.fr
 - 😄 Pronouns: He, his, him
