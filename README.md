@@ -1,3 +1,13 @@
+<!--- P R O F I L E   V I E W S   C O U N T E R S --->
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ayohsan) 
+![Followers](https://img.shields.io/github/followers/ayohsan?label=Followers) 
+![Stars](https://img.shields.io/github/stars/ayohsan?label=Stars)
+
+</div>
+
 <!--- A N I M A T E D   T E X T --->
 
 <h1 align="center">  
@@ -15,16 +25,6 @@
 </div>
 
 ![](/Assets/horizontal-divider-gradient.gif)
-
-<!--- P R O F I L E   V I E W S   C O U N T E R S --->
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=ayohsan) 
-![Followers](https://img.shields.io/github/followers/ayohsan?label=Followers) 
-![Stars](https://img.shields.io/github/stars/ayohsan?label=Stars)
-
-</div>
 
 <br>
 
