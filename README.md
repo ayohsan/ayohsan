@@ -46,8 +46,6 @@
 
 </div>
 
-![](/Assets/horizontal-divider-gradient.gif)
-
 <!--- S O C I A L   M E D I A   B A D G E S --->
 
 <h3 align="left">Connect with me:</h3>
