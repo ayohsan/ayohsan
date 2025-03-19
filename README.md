@@ -115,9 +115,14 @@
 
 <!--- G I T H U B   P R O F I L E   S T A T S --->
 
+<div align="center">
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayohsan&theme=midnight-purple)](https://git.io/streak-stats)
+  
+</div>
+
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
