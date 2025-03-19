@@ -41,23 +41,21 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan" alt="ayohsan" /></a> </p>
 
-- 🔭 I’m currently working on **a website and a CRM**
+- 🔭 I’m currently working on **a Website and a CRM**
 
-- 🌱 I’m currently learning **C, Rust, and cloud**
+- 🌱 I’m currently learning **DevOps** and I'm **42 student**
 
 - 👯 I’m looking to collaborate on **IA or Blockchain**
 
-- 👨‍💻 All of my projects are available at [github](github)
-
 - 📫 How to reach me **ayohsan@live.fr**
-
-- 📄 Know about my experiences [https://linkedin/in/adel-barchan](https://linkedin/in/adel-barchan)
 
 - ⚡ Fun fact **I'm State-Certified Hearing Aid Specialist and Optician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adel-barchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadel-barchan" height="30" width="40" /></a>
+
+https://stackoverflow.com/users/29989916/trafnosleep
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
