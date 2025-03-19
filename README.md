@@ -115,10 +115,12 @@
 
 <!--- G I T H U B   P R O F I L E   S T A T S --->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ayohsan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&" alt="ayohsan" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&theme=midnight-purple&" alt="ayohsan" />
+</p>
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
