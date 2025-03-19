@@ -67,3 +67,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en" alt="ayohsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&" alt="ayohsan" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayohsan/ayohsan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayohsan/ayohsan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayohsan/ayohsan/output/github-snake.svg" />
+</picture>
