@@ -117,7 +117,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
 
-<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayohsan&theme=midnight-purple" alt="GitHub Streak" /></p>
+<p> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayohsan&theme=midnight-purple" alt="GitHub Streak" /></a> </p>
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
