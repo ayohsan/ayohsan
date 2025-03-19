@@ -54,8 +54,6 @@
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
-<br>
-
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -117,7 +115,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ayohsan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&" alt="ayohsan" /></p>
 
