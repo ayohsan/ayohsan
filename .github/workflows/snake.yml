@@ -3,6 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"
+
   workflow_dispatch:
 
 jobs:
@@ -13,13 +14,6 @@ jobs:
       # Checkout the repository so the job can access it
       - name: Checkout code
         uses: actions/checkout@v2
-
-      # Install necessary dependencies (including canvas)
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev
-          sudo npm install canvas
 
       # Generates the snake
       - name: Generate Snake
