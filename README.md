@@ -73,7 +73,7 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,css,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=nextjs,css" />
   </a>
 </div>
 <br>
