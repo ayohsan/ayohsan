@@ -4,6 +4,8 @@
   <img src="Assets/wallpaper.gif" alt="Wallpaper" width="835">
 </div>
 
+![](/assets/images/horizontal-divider-gradient.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayohsan&label=Profile%20views&color=0e75b6&style=flat" alt="ayohsan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan" alt="ayohsan" /></a> </p>
