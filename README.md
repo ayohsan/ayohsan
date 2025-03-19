@@ -12,10 +12,6 @@
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=ayohsan&label=Profile%20views&color=0e75b6&style=flat" alt="ayohsan" />
-</p>
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=ayohsan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/ayohsan?label=Followers) ![Stars](https://img.shields.io/github/stars/ayohsan?label=Stars)
