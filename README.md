@@ -106,7 +106,7 @@
 - Other Tools
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,vim,linux,autocad,c,rust,sklearn" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,linux,autocad,c,rust,sklearn" />
   </a>
 </div>
 <br>
