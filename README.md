@@ -77,7 +77,11 @@
 
 <p align="left"> 
 
-[![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=react,node.js,docker,mongodb,postgresql,awslambda,adobexd,angular)
+<div align="center">
+  <a href="https://github.com/ayeshanweerasuriya">
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,c,cs,discord,figma,git,github,ai,java,kotlin,linkedin,mysql,nodejs,ps,php,postman,pr,py,react,stackoverflow,twitter,visualstudio,vscode,codepen,blender,vue,wordpress" />
+  </a>
+</div>
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
