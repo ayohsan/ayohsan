@@ -117,7 +117,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&theme=tokyonight&" alt="ayohsan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com&theme=tokyonight/?user=ayohsan&" alt="ayohsan" /></p>
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
