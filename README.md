@@ -32,6 +32,9 @@
 
 <!--- G I T H U B   T R O P H Y --->
 
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
 <p align="center"> <a href="https://github.com/ayohsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
 
 ![](/Assets/horizontal-divider-gradient.gif)
@@ -122,6 +125,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+![](/Assets/horizontal-divider-gradient.gif)
 
 <br>
 
