@@ -86,7 +86,7 @@
 <br>
 - Cloud Server
 <div align="left">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />  <a href="https://skillicons.dev">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,cloudflare" />
   </a>
 </div>
@@ -95,8 +95,8 @@
 <div align="left">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,vim,linux,autocad,c" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" /> <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,vim,linux,autocad,c,grafana,terraform,jenkins,prometheus,rust,sklearn" />
   </a>
 </div>
 
