@@ -16,8 +16,6 @@
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
-<br>
-
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
 <div align="center">
