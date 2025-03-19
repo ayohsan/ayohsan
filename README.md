@@ -47,7 +47,7 @@
 
 <!--- G I T H U B   T R O P H Y --->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
+<p align="center"> <a href="https://github.com/ayohsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
 
 <!--- A B O U T   M E --->
 
