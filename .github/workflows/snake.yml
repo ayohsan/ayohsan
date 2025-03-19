@@ -26,13 +26,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Debug step: List the contents of the dist directory
-      - name: List dist directory contents
-        run: |
-          echo "Listing contents of dist directory:"
-          ls -l dist/
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       # Show the status of the build (for debugging purposes)
       - name: Git status
