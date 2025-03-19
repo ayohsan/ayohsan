@@ -26,8 +26,6 @@
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
-<br>
-
 <!--- A B O U T   M E --->
 
 <div align=left> 
@@ -111,10 +109,9 @@
     <img src="https://skillicons.dev/icons?i=figma,vscode,vim,linux,autocad,c,rust,sklearn" />
   </a>
 </div>
+<br>
 
 ![](/Assets/horizontal-divider-gradient.gif)
-
-<br>
 
 <!--- G I T H U B   P R O F I L E   S T A T S --->
 
@@ -125,7 +122,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayohsan&theme=midnight-purple)](https://git.io/streak-stats)
   
 </div>
-
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
