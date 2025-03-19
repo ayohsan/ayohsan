@@ -26,6 +26,8 @@
 
 </div>
 
+<!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
+
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -69,6 +71,10 @@
 <a href="https://stackoverflow.com/users/29989916/trafnosleep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adel-barchan" height="30" width="40" /></a>
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adel-barchan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/adel-barchan?trk=profile-badge">Adel Barchan</a></div>
+              
+<!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
+
 <h3 align="left">Languages and Tools:</h3>
  
 <p align="left"> 
@@ -103,11 +109,15 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<!--- G I T H U B   P R O F I L E   S T A T S --->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact" alt="ayohsan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en" alt="ayohsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&" alt="ayohsan" /></p>
+
+<!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
@@ -116,3 +126,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayohsan/ayohsan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ayohsan/ayohsan/output/github-snake.svg" />
 </picture>
+
+![](/Assets/horizontal-divider-gradient.gif)
