@@ -1,8 +1,12 @@
+<!--- A N I M A T E D   T E X T --->
+
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&height=50&lines=Hey+!;I'm+@ayohsan+!"/>
   </a>
 </h1>
+
+<!--- P R O F I L E   B A N N E R --->
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
@@ -11,6 +15,8 @@
 </div>
 
 ![](/Assets/horizontal-divider-gradient.gif)
+
+<!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
 <div align="center">
 
@@ -39,7 +45,11 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan" alt="ayohsan" /></a> </p>
+<!--- G I T H U B   T R O P H Y --->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
+
+<!--- A B O U T   M E --->
 
 - 🔭 I’m currently working on **a Website and a CRM**
 
@@ -50,6 +60,8 @@
 - 📫 How to reach me **ayohsan@live.fr**
 
 - ⚡ Fun fact **I'm State-Certified Hearing Aid Specialist and Optician**
+
+<!--- S O C I A L   M E D I A   B A D G E S --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
