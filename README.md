@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+![](/Assets/horizontal-divider-gradient.gif)
+
 <div align="center">
   <img src="Assets/wallpaper.gif" alt="Wallpaper" width="835">
 </div>
