@@ -67,32 +67,38 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,spring,flask,fastapi,express,nestjs" />
   </a>
 </div>
+<br>
 - Frontend
 <div align="left">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=nextjs,css,redux,tailwind,materialui" />
   </a>
 </div>
+<br>
 - Database
 <div align="left">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,dynamodb" />
   </a>
 </div>
+<br>
 - Cloud Server
 <div align="left">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,cloudflare" />
   </a>
 </div>
+<br>
 - Tools
 <div align="left">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,vim,linux,autocad,c" />
   </a>
 </div>
 
