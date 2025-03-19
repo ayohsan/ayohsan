@@ -71,8 +71,6 @@
 <a href="https://stackoverflow.com/users/29989916/trafnosleep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adel-barchan" height="30" width="40" /></a>
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adel-barchan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/adel-barchan?trk=profile-badge">Adel Barchan</a></div>
-              
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -109,6 +107,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<br>
 <!--- G I T H U B   P R O F I L E   S T A T S --->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact" alt="ayohsan" /></p>
