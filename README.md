@@ -31,11 +31,13 @@
 <!--- A B O U T   M E --->
 
 <div align=left> 
-  
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ayohsan" /></p>
+
 🔭 I’m currently working on **a Website and a CRM**
 
 🌱 I’m currently learning **DevOps** and I'm **42 student**
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ayohsan" /></p>
+
 👯 I’m looking to collaborate on **IA or Blockchain**
 
 📫 How to reach me **ayohsan@live.fr**
