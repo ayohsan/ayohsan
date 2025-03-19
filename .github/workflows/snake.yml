@@ -42,7 +42,7 @@ jobs:
       - name: Push changes to output branch
         uses: ad-m/github-push-action@v0.6.0  # Use the stable version
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           branch: output  # Push to the `output` branch
           force: true
 
@@ -53,4 +53,4 @@ jobs:
           target_branch: output  # Output branch where the files will be pushed
           build_dir: dist  # Directory containing the generated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
