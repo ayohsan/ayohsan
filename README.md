@@ -30,17 +30,6 @@
 
 <br>
 
-<!--- G I T H U B   T R O P H Y --->
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-
-<p align="center"> <a href="https://github.com/ayohsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
-
-![](/Assets/horizontal-divider-gradient.gif)
-
-<br>
-
 <!--- A B O U T   M E --->
 
 <div align=left> 
@@ -137,6 +126,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&" alt="ayohsan" /></p>
+
+![](/Assets/horizontal-divider-gradient.gif)
+
+<br>
+
+<!--- G I T H U B   T R O P H Y --->
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
+<p align="center"> <a href="https://github.com/ayohsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
+
+![](/Assets/horizontal-divider-gradient.gif)
+
+<br>
+
 
 <!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
 
