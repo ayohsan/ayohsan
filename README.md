@@ -55,7 +55,7 @@
 
 <!--- A B O U T   M E --->
 
-<div align=center> 
+<div align=left> 
   
 🔭 I’m currently working on **a Website and a CRM**
 
