@@ -119,6 +119,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&" alt="ayohsan" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayohsan&" alt="ayohsan" /></p>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayohsan&" alt="GitHub Streak" /></a>
 
 ![](/Assets/horizontal-divider-gradient.gif)
