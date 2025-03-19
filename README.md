@@ -133,7 +133,7 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-<p align="center"> <a href="https://github.com/ayohsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
+<a href="https://github.com/ayohsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
 
 <!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
 
