@@ -1,6 +1,5 @@
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -14,7 +13,14 @@ jobs:
       # Checkout the repository so the job can access it
       - name: Checkout code
         uses: actions/checkout@v2
-    
+
+      # Install necessary dependencies (including canvas)
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev
+          sudo npm install canvas
+
       # Generates the snake
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -27,6 +33,12 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Debug step: List the contents of the dist directory
+      - name: List dist directory contents
+        run: |
+          echo "Listing contents of dist directory:"
+          ls -l dist/
 
       # Show the status of the build (for debugging purposes)
       - name: Git status
