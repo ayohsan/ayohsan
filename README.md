@@ -23,6 +23,8 @@
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan" alt="ayohsan" /></a> </p>
 
 - 🔭 I’m currently working on **a website and a CRM**
