@@ -42,6 +42,8 @@
 
 ⚡ Fun fact **I'm State-Certified Hearing Aid Specialist and Optician**
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ayohsan" /></p>
+
 </div>
 
 <!--- S O C I A L   M E D I A   B A D G E S --->
