@@ -55,6 +55,8 @@
 
 <!--- A B O U T   M E --->
 
+<div align=center> 
+  
 🔭 I’m currently working on **a Website and a CRM**
 
 🌱 I’m currently learning **DevOps** and I'm **42 student**
@@ -64,6 +66,8 @@
 📫 How to reach me **ayohsan@live.fr**
 
 ⚡ Fun fact **I'm State-Certified Hearing Aid Specialist and Optician**
+
+</div>
 
 <!--- S O C I A L   M E D I A   B A D G E S --->
 
