@@ -12,7 +12,7 @@
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayohsan&label=Profile%20views&color=0e75b6&style=flat" alt="ayohsan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayohsan&label=Profile%20views&color=0e75b6&style=flat" alt="ayohsan" /> </p> ![Followers](https://img.shields.io/github/followers/ayohsan?label=Followers) ![Stars](https://img.shields.io/github/stars/ayohsan?label=Stars)
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
