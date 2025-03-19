@@ -91,14 +91,22 @@
   </a>
 </div>
 <br>
-- Tools
+- DevOps Tools
 <div align="left">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" /> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,vim,linux,autocad,c,grafana,terraform,jenkins,prometheus,rust,sklearn" />
+    <img src="https://skillicons.dev/icons?i=git,grafana,terraform,jenkins,prometheus" />
   </a>
 </div>
+<br>
+- Other Tools
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,vim,linux,autocad,c,rust,sklearn" />
+  </a>
+</div>
+
 
 ![](/Assets/horizontal-divider-gradient.gif)
 
