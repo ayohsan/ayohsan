@@ -51,17 +51,19 @@
 
 <p align="center"> <a href="https://github.com/ayohsan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayohsan&theme=darkhub&no-frame=true" alt="ayohsan" /></a> </p>
 
+<br>
+
 <!--- A B O U T   M E --->
 
-- 🔭 I’m currently working on **a Website and a CRM**
+🔭 I’m currently working on **a Website and a CRM**
 
-- 🌱 I’m currently learning **DevOps** and I'm **42 student**
+🌱 I’m currently learning **DevOps** and I'm **42 student**
 
-- 👯 I’m looking to collaborate on **IA or Blockchain**
+👯 I’m looking to collaborate on **IA or Blockchain**
 
-- 📫 How to reach me **ayohsan@live.fr**
+📫 How to reach me **ayohsan@live.fr**
 
-- ⚡ Fun fact **I'm State-Certified Hearing Aid Specialist and Optician**
+⚡ Fun fact **I'm State-Certified Hearing Aid Specialist and Optician**
 
 <!--- S O C I A L   M E D I A   B A D G E S --->
 
