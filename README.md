@@ -32,8 +32,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayohsan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="ayohsan" /></p>
 
-<br>
-
 🔭 I’m currently working on **a Website and a CRM**
 
 🌱 I’m currently learning **DevOps** and I'm **42 student**
@@ -120,7 +118,6 @@
 <div align="center">
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayohsan&show_icons=true&locale=en&theme=midnight-purple" alt="ayohsan" /></p>
-
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayohsan&theme=midnight-purple)](https://git.io/streak-stats)
   
